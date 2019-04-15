@@ -1,13 +1,13 @@
-#BAM House Design App
+# BAM House Design App
 
 ## Uses React and ExpressJS to createa a House Catelog App
 
-##Installation Instructions 
+## Installation Instructions 
 
 - open terminal cd to house-app
 - run "npm install"
 
-##Running Instructions 
+## Running Instructions 
 
 - open terminal cd to house-app
 - run "npm start"
