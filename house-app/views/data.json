@@ -1,0 +1,48 @@
+ {
+     "homes": [
+     {
+         "id": 1,
+         "marketingName": "Wind",
+         "sqFt": "1,100",
+         "beds": 2,
+         "baths": 2,
+         "renderings": "Wind.jpg",
+         "price": "429,000"
+     },
+     {
+         "id": 2,
+         "marketingName": "Forest",
+         "sqFt": "1,120",
+         "beds": 2,
+         "baths": 2,
+         "renderings": "Forest.jpg",
+         "price": "432,900"
+     },
+     {
+         "id": 3,
+         "marketingName": "Shore",
+         "sqFt": "1,080",
+         "beds": 2,
+         "baths": 2,
+         "renderings": "Shore.jpg",
+         "price": "439,900"
+     },
+     {
+         "id": 4,
+         "marketingName": "Sky",
+         "sqFt": "1,105",
+         "beds": 2,
+         "baths": 2,
+         "renderings": "Sky.jpg",
+         "price": "445,900"
+     },
+     {
+         "id": 5,
+         "marketingName": "Sunset",
+         "sqFt": "1,265",
+         "beds": 2,
+         "baths": 2,
+         "renderings": "Sunset.jpg",
+         "price": "452,900"
+     }]
+ }

@@ -1,0 +1,40 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background:#f4f6f7;
+  color:#6495ED;
+}
+
+h3 {
+	margin:0 0 10px;
+	font-size:20px;
+}
+
+h5 {
+	margin:0 0 10px;
+	font-size:15px;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.grid [class*="col-"]  {
+	padding:5px;
+}
+
+.grid .leftpanel, .rightPanel {
+	width: 50%;
+	float:left;
+	padding:4px;
+}
+
+.grid .bed,.grid .bath {
+	width: 50%;
+	float:left;
+}
+
+.grid .img-container {
+	box-shadow: 0 10px 16px 0 rgba(0,0,0,0.1),0 6px 20px 0 rgba(0,0,0,0.19);
+	margin-bottom:5px;
+}
