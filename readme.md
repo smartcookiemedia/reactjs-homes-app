@@ -1,4 +1,4 @@
-# BAM House Design App
+#  House Design App
 
 ## Uses React and ExpressJS to createa a House Catelog App
 
